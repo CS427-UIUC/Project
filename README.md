@@ -26,7 +26,7 @@ Meeting time:
 Meeting location (zoom link):
 </br> 
 </br>
-<b>Week 1</b>
+<b>Project Week 1</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -45,7 +45,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 2</b>
+<b>Project Week 2</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -64,7 +64,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 3</b>
+<b>Project Week 3</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -83,7 +83,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 4</b>
+<b>Project Week 4</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -102,7 +102,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 5</b>
+<b>Project Week 5</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -121,7 +121,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 6</b>
+<b>Project Week 6</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -140,7 +140,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 7</b>
+<b>Project Week 7</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -159,7 +159,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 8</b>
+<b>Project Week 8</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -178,7 +178,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 9</b>
+<b>Project Week 9</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -197,7 +197,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 10</b>
+<b>Project Week 10</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -216,7 +216,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 11</b>
+<b>Project Week 11</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
@@ -235,7 +235,7 @@ Meeting notes: Explain the overall team progress and a summary of discussion
 </br>
 
 
-<b>Week 12</b>
+<b>Project Week 12</b>
 </br>
 Members present: List the NetID of the people who attended the meeting
 </br>
