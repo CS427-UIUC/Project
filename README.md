@@ -2,8 +2,8 @@
 
 The code for CS427 Android app.
 
-## Team #X member information
-(Replace X with your team number)
+## Team #XYZ member information
+(Replace XYZ with your team number)
 
 | Name | NetID | GitHub ID | Role | Experience |
 |------|-------|-----------|------|------------|
@@ -18,15 +18,15 @@ The code for CS427 Android app.
 
 ## Weekly Progress Reports
 
-**Meeting time:**  
+**Meeting time:**
 **Meeting location (Zoom link):**
 
 ### Project Week 1
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -42,10 +42,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 2
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -61,10 +61,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 3
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -80,10 +80,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 4
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -99,10 +99,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 5
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -118,10 +118,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 6
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -137,10 +137,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 7
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -156,10 +156,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 8
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -175,10 +175,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 9
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -194,10 +194,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 10
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -213,10 +213,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 11
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
@@ -232,10 +232,10 @@ Explain the overall team progress and a summary of discussion
 
 ### Project Week 12
 
-**Members present:**  
+**Members present:**
 List the NetID of the people who attended the meeting
 
-**Meeting notes:**  
+**Meeting notes:**
 Explain the overall team progress and a summary of discussion
 
 | NetID | Progress from last week | Tasks for next week |
